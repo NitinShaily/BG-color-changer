@@ -5,3 +5,11 @@ A java script application that change background color of webpage to random colo
 >>HTML
 >>CSS
 >>JAVASCRIPT
+
+# DEMO  
+  
+> ![screen-gif](./docs/bg-changer.gif)  
+ 
+ 
+ 
+ Link to website: https://nitinshaily.github.io/BG-color-changer/  
